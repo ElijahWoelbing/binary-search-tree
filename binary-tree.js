@@ -12,7 +12,7 @@ class Tree {
         }
     }
 
-    // print nodes of tree in 
+    // print nodes of tree 
     print() {
         this.root.print()
     }
